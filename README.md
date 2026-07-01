@@ -2,9 +2,7 @@
 
 # 🔐 CrackMe Solutions
 
-### *Belajar Reverse Engineering melalui berbagai tantangan CrackMe.*
-
-Repository ini berisi kumpulan write-up dan solusi dari berbagai challenge **CrackMe** yang saya kerjakan sebagai bagian dari proses belajar **Reverse Engineering**.
+### *Write-up dan dokumentasi penyelesaian berbagai challenge CrackMe untuk belajar Reverse Engineering.*
 
 </div>
 
@@ -12,24 +10,29 @@ Repository ini berisi kumpulan write-up dan solusi dari berbagai challenge **Cra
 
 # 📖 Tentang Repository
 
-Repository ini dibuat untuk mendokumentasikan proses analisis dan penyelesaian berbagai challenge **CrackMe**. Fokus utama setiap write-up adalah menjelaskan bagaimana sebuah executable dianalisis, mulai dari memahami logika program, membaca Assembly, hingga menemukan solusi berdasarkan hasil analisis.
+Repository ini berisi kumpulan write-up dari berbagai challenge **CrackMe** yang saya kerjakan sebagai bagian dari proses belajar Reverse Engineering.
 
-Setiap challenge dikerjakan sebagai media pembelajaran untuk meningkatkan kemampuan dalam:
+Setiap write-up mendokumentasikan proses analisis mulai dari memahami executable, mengidentifikasi logika program, hingga memperoleh solusi. Fokus utama repository ini adalah **proses berpikir dan teknik analisis**, bukan sekadar mendapatkan jawaban akhir.
 
-- Reverse Engineering
-- Static Analysis
-- Dynamic Analysis
-- Assembly
-- Binary Analysis
-- Debugging
+Challenge yang digunakan berasal dari platform pembelajaran seperti **Crackmes.one**, yang memang menyediakan binary untuk melatih kemampuan Reverse Engineering secara legal. :contentReference[oaicite:1]{index=1}
 
-Repository ini akan terus diperbarui seiring bertambahnya challenge yang berhasil diselesaikan.
+---
+
+# 🎯 Tujuan
+
+Repository ini dibuat untuk:
+
+- Mendokumentasikan proses penyelesaian challenge CrackMe.
+- Melatih kemampuan Reverse Engineering.
+- Memahami Assembly dan Binary Analysis.
+- Belajar menggunakan tools seperti Ghidra, x64dbg, dan IDA Free.
+- Menjadi catatan pembelajaran yang dapat dipelajari kembali.
 
 ---
 
 # 🛠 Tools
 
-Beberapa tools yang sering digunakan selama proses analisis:
+Tools yang sering digunakan selama proses analisis:
 
 - Ghidra
 - IDA Free
@@ -38,21 +41,14 @@ Beberapa tools yang sering digunakan selama proses analisis:
 - PE-bear
 - PEStudio
 - Strings
-- Resource Hacker
 
 ---
 
 # ⚠️ Disclaimer
 
-Repository ini dibuat **hanya untuk tujuan pembelajaran dan penelitian**.
+Repository ini dibuat **hanya untuk tujuan pembelajaran**.
 
-Seluruh write-up berasal dari challenge **CrackMe** yang memang disediakan untuk dipelajari. Dokumentasi ini tidak bertujuan untuk membahas pembajakan perangkat lunak, bypass lisensi, maupun aktivitas lain yang melanggar hukum.
-
----
-
-# 🤝 Kontribusi
-
-Saran, koreksi, maupun diskusi mengenai proses analisis sangat terbuka. Silakan membuat **Issue** atau **Pull Request** apabila ingin berkontribusi.
+Seluruh write-up berasal dari challenge CrackMe yang memang dirancang untuk dipelajari dan meningkatkan kemampuan Reverse Engineering. Dokumentasi ini tidak ditujukan untuk membahas pembajakan perangkat lunak, bypass lisensi, ataupun aktivitas lain yang melanggar hukum.
 
 ---
 
@@ -60,6 +56,6 @@ Saran, koreksi, maupun diskusi mengenai proses analisis sangat terbuka. Silakan 
 
 ### 🚀 Happy Reversing!
 
-*"Reverse Engineering is not about finding the answer first, but understanding how the program reaches it."*
+*"Don't just solve the challenge—understand why the solution works."*
 
 </div>
