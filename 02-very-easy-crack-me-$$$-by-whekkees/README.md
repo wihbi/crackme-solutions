@@ -47,7 +47,7 @@ Binary ini merupakan executable Windows 64-bit berbentuk aplikasi console sehing
 
 > **Screenshot**
 
-![File Information](images/file-information.png)
+![File Information](images/01-file-information.png)
 
 ---
 
@@ -73,7 +73,7 @@ Selain itu, belum ditemukan indikasi adanya proses enkripsi ataupun algoritma ya
 
 > **Screenshot**
 
-![Defined Strings](images/defined-strings.png)
+![Defined Strings](images/02-defined-strings.png)
 
 ---
 
@@ -97,7 +97,7 @@ Karena seluruh proses autentikasi berada pada fungsi tersebut, maka analisis dif
 
 > **Screenshot**
 
-![Cross Reference](images/xref-password.png)
+![Cross Reference](images/03-xref-password.png)
 
 ---
 
@@ -189,7 +189,7 @@ Dengan demikian, challenge ini menggunakan mekanisme **hardcoded credential**, y
 
 > **Screenshot**
 
-![Function Analysis](images/function-analysis.png)
+![Function Analysis](images/04-function-analysis.png)
 
 ---
 
@@ -230,7 +230,7 @@ Hal ini membuktikan bahwa hasil analisis telah sesuai.
 
 > **Screenshot**
 
-![Solved](images/solved.png)
+![Solved](images/05-solved.png)
 
 ---
 
